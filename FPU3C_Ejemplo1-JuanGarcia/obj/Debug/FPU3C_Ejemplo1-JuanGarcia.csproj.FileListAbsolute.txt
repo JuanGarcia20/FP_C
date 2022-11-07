@@ -1,0 +1,7 @@
+C:\Users\Tecnologico\source\repos\FPU3C_Ejemplo1-JuanGarcia\bin\Debug\FPU3C_Ejemplo1-JuanGarcia.exe.config
+C:\Users\Tecnologico\source\repos\FPU3C_Ejemplo1-JuanGarcia\bin\Debug\FPU3C_Ejemplo1-JuanGarcia.exe
+C:\Users\Tecnologico\source\repos\FPU3C_Ejemplo1-JuanGarcia\bin\Debug\FPU3C_Ejemplo1-JuanGarcia.pdb
+C:\Users\Tecnologico\source\repos\FPU3C_Ejemplo1-JuanGarcia\obj\Debug\FPU3C_Ejemplo1-JuanGarcia.csproj.AssemblyReference.cache
+C:\Users\Tecnologico\source\repos\FPU3C_Ejemplo1-JuanGarcia\obj\Debug\FPU3C_Ejemplo1-JuanGarcia.csproj.CoreCompileInputs.cache
+C:\Users\Tecnologico\source\repos\FPU3C_Ejemplo1-JuanGarcia\obj\Debug\FPU3C_Ejemplo1-JuanGarcia.exe
+C:\Users\Tecnologico\source\repos\FPU3C_Ejemplo1-JuanGarcia\obj\Debug\FPU3C_Ejemplo1-JuanGarcia.pdb
